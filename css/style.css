@@ -1,0 +1,188 @@
+.firstrow {
+    height: 156px;
+    background-color: #4a3030;
+}
+
+img {
+    height: 155px;
+    width: 206px;
+    margin-left: -14px;
+    border-radius: 50%;
+}
+
+.taitelDe {
+    margin-top: 42px;
+    margin-left: -88px;
+    color: blue;
+}
+
+.loginbutton {
+    margin-top: 44px;
+}
+
+.submit-row {
+    color: red;
+    background-color: #a6a8c3;
+
+    border-color: #28a745;
+    padding: 20px;
+}
+
+.symtoms {
+    background-color: grey;
+    padding: 20px;
+    width: 100%;
+    text-align: center;
+}
+
+.symtomsrow {
+    background-color: dimgray;
+    
+}
+
+.form-check-label {
+    padding-left: 40px;
+    margin-bottom: 20px;
+}
+
+.form-check-input {
+
+    height: 20px;
+    width: 20px;
+    background-color: #ccc;
+    margin-left: -26px;
+}
+
+.form-check {
+    padding-top: 10px;
+    
+}
+
+p:hover,
+a:hover {
+    background-color:whitesmoke;
+}
+
+.form-check:hover {
+    background-color: #9897b4
+}
+
+.footer1 {
+
+    background-color: #e4e1e4;
+    color: black;
+    text-align: center;
+    height: 150px;
+    padding-top: 20px;
+
+}
+
+.footer2 {
+
+    background-color: #ede7ed;
+    color: black;
+    text-align: center;
+    height: 150px;
+    padding-top: 20px;
+}
+
+.footerRow {
+    margin-top: 20px;
+
+}
+
+
+.doctors {
+    width: 100%;
+    min-height: 400px;
+    overflow: hidden;
+
+
+}
+
+.doctors_wrapper {
+    overflow: hidden;
+    min-height: 380px;
+    width: 90%;
+    margin: 5px auto;
+
+}
+
+
+.doctor_info {
+    overflow: hidden;
+    width: 27%;
+    min-height: 351px;
+    background-color: #ffffff;
+    float: left;
+    border-style: groove;
+    box-sizing: border-box;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 4.3%;
+    transition: 1s;
+
+}
+
+.doctor_info:hover {
+    transform: scale(1.055);
+}
+
+.doctor_info_wrapper {
+    min-height: 328px;
+    width: 97%;
+    margin: 9px auto;
+
+}
+
+
+#picture {
+    min-height: 151px;
+    width: 89%;
+    margin: 9px auto;
+    display: none;
+
+}
+
+.picture img {
+    height: 151px;
+    width: 72%;
+    margin: 2px 14%;
+}
+
+.picture_content {
+    min-height: 161px;
+    width: 98%;
+    background-color: aliceblue;
+    margin: 8px auto;
+    padding-top: 7px;
+}
+
+.picture_content p {
+    color: black;
+}
+
+.picture_content:hover p {
+    background-color: aliceblue;
+}
+
+
+.doc_img {
+    height: 200px;
+    width: 200px;
+    margin-left: -14px;
+    
+    background-color: #e0e0e5;
+}
+
+.doctor_pic{
+    padding-top: 70px;
+text-align: center;
+/*border: 1px solid green;*/
+}
+.doc_info{
+    padding: 15px;
+}
+.doc_right_info{
+    padding-top: 15px;
+}
